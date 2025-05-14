@@ -98,4 +98,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🌐 Live Demo
 
-Visit the live demo: [TeamFlow Dashboard](https://gleaming-twilight-b4297f.netlify.app)
+Visit the live demo: [TeamFlow Dashboard](https://teamflow-omega.vercel.app/login)
