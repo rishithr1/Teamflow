@@ -48,7 +48,7 @@ A modern, real-time team collaboration dashboard built with React, TypeScript, a
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/teamflow-dashboard.git
+git clone (https://github.com/rishithr1/Teamflow.git)
 ```
 
 2. Install dependencies
